@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+
+.header{
+    background-color: gray;
+    height: 14vh;
+    width: 100
+}
+
+.blue-box{
+    background-color: blue;
+    position: relative;
+    top: 15px;
+    left: 10px;
+    height: 75px;
+    width: 75px;
+
+}
+
+.content{
+    background-color: white;
+    height: 60vh;
+    width: 100%;
+}
+p{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    right: 150px;
+    text-align: center;
+    font-size: 30px;
+    white-space: normal;
+}
+
+.footer-1{
+    background-color: blue;
+    height: 14vh;
+    width: 100
+
+}
+.footer-2{
+    background-color:aquamarine;
+    height: 14vh;
+    width: 100
+}
+.footer-3{
+    background-color:lightgreen;
+    height: 14vh;
+    width: 100
+}
+.footer-4{
+    background-color: yellow;
+    height: 14vh;
+    width: 100
+}
